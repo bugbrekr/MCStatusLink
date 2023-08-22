@@ -1,0 +1,26 @@
+# serverUp="""
+# Server is back online! 👍
+
+# __Booted in {boot_duration}s__
+# """
+
+playerJoin="""
+**{player_name}** joined the game.
+"""
+
+playerLeave="""
+**{player_name}** left the game.
+"""
+
+playerMessage="""
+**{player_name}:** {message}
+"""
+
+playerDeath="""
+{death_message}
+"""
+
+playerAdvancement="""
+**{player_name}** has made the advancement **{advancement_title}**!
+Description: {advancement_description}
+"""

@@ -1,0 +1,5 @@
+config/config.toml
+config/messageTemplates.toml
+store/
+.venv
+__pycache__
